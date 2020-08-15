@@ -1,4 +1,4 @@
-# About 
+# 😎 Me 
 
 Hi, 👋
 
@@ -53,7 +53,7 @@ Here some projects, I've done in Strive School with MERN stack.
 ---------------------------------------------------------------------------
 
 
- #💻 Tech Stack 
+ # 💻 Tech Stack 
 
 This is the main stack that I am using in projects.
 
@@ -67,7 +67,7 @@ This is the main stack that I am using in projects.
  * NodeJS
 
 ---------------------------------------
-#🔙🔚 API
+# 🔙🔚 API
 
 * REST
 * GraphQL
