@@ -1,6 +1,5 @@
-# 😎 Me 
 
-Hi, 👋
+Hi 👋
 
 I am Ubeyt, **javascript focused full stack developer**. I like to solve problems by coding.
 
