@@ -2,9 +2,9 @@
 
 Hi, 👋
 
-I am Ubeyt, javascript focused full stack developer. I like to solve problems by coding.
+I am Ubeyt, **javascript focused full stack developer**. I like to solve problems by coding.
 
-I am studying software engineering and at the same time, I am in Strive School's A20 Batch for Fullstack Developer program.
+I am studying software engineering and at the same time, I am in [Strive School](https://strive.school/)'s A20 Batch for Fullstack Developer program.
 
 Here some projects, I've done in Strive School with MERN stack.
 
@@ -45,8 +45,8 @@ Here some projects, I've done in Strive School with MERN stack.
 
 | School        | Domain        | Status  |
 | ------------- |:-------------:| -----:|
-| Strive School | Fullstack Developer   |  Currently |
-| Firat University     | Software Enginnering | Currently |
+| [Strive School](https://strive.school/)| Fullstack Developer   |  Currently |
+| [Firat University](http://www.firat.edu.tr/en)     | Software Enginnering | Currently |
  
 
 
