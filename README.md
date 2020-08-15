@@ -9,7 +9,7 @@ I am studying software engineering and at the same time, I am in Strive School's
 Here some projects, I've done in Strive School with MERN stack.
 
 
-# Strive School A20 Batch Projects 
+# 💡 Strive School A20 Batch Projects 
  
 - [Weather Forecast](https://github.com/ubeytdemirr/strive-ts-weathermap) | [Live](https://ubeytdemirr.github.io/strive-ts-weathermap/#/)
 
@@ -40,7 +40,7 @@ Here some projects, I've done in Strive School with MERN stack.
 
 
 
-# Education
+# 🎒 Education
 
 
 | School        | Domain        | Status  |
@@ -53,7 +53,7 @@ Here some projects, I've done in Strive School with MERN stack.
 ---------------------------------------------------------------------------
 
 
- # Tech Stack 
+ #💻 Tech Stack 
 
 This is the main stack that I am using in projects.
 
@@ -67,13 +67,13 @@ This is the main stack that I am using in projects.
  * NodeJS
 
 ---------------------------------------
-# API
+#🔙🔚 API
 
 * REST
 * GraphQL
 
 
-# UI
+# 🏗️ UI
 
  * Material UI
  * Semantic UI
