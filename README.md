@@ -8,34 +8,6 @@ I am studying software engineering and at the same time, I am in [Strive School]
 Here some projects, I've done in Strive School with MERN stack.
 
 
-# 💡 Strive School A20 Batch Projects 
- 
-- [Weather Forecast](https://github.com/ubeytdemirr/strive-ts-weathermap) | [Live](https://ubeytdemirr.github.io/strive-ts-weathermap/#/)
-
-
-- [Spotify UI](https://github.com/ubeytdemirr/strive-school-spotify-react) | [Live](https://ubeytdemirr.github.io/strive-school-spotify-react/#/)
-
-
-- [Music Search & Frequence Visualization](https://github.com/ubeytdemirr/music-search-ts) | [Live](https://ubeytdemirr.github.io/music-search-ts/#/)
-
-
-- [IMDB UI](https://github.com/ubeytdemirr/imdb-react) | [Live](https://ubeytdemirr.github.io/imdb-react/#/)
-
-
-- [Restaurant UI ](https://github.com/ubeytdemirr/react-strive-restaurant) | [Live](https://ubeytdemirr.github.io/react-strive-restaurant/#/)
-
-
-- [Amazon UI](https://github.com/ubeytdemirr/strivazon-client) | [Live](https://ubeytdemirr.github.io/strivazon-client/#/)
-
-- [Books (Infinite Scroll & Pagination)](https://github.com/ubeytdemirr/strive-school-homeworks/tree/master/week8/day2/book-store) | [Live](https://strivebooks.imfast.io/)
-
-
-
-- [GOG](https://github.com/ubeytdemirr/strive-school-homeworks/tree/master/week4/day5) | [Live](https://gogui.imfast.io/)
-
-
-- [Netflix UI (Teamwork)](https://github.com/ubeytdemirr/strive-school-netflix-vanillajs) | [Live](https://fakeflix.imfast.io/)
-
 
 
 
@@ -77,3 +49,37 @@ This is the main stack that I am using in projects.
  * Material UI
  * Semantic UI
  * Bootstrap 
+ 
+ 
+ 
+ 
+ 
+ 
+# 💡 Strive School A20 Batch Projects 
+ 
+- [Weather Forecast](https://github.com/ubeytdemirr/strive-ts-weathermap) | [Live](https://ubeytdemirr.github.io/strive-ts-weathermap/#/)
+
+
+- [Spotify UI](https://github.com/ubeytdemirr/strive-school-spotify-react) | [Live](https://ubeytdemirr.github.io/strive-school-spotify-react/#/)
+
+
+- [Music Search & Frequence Visualization](https://github.com/ubeytdemirr/music-search-ts) | [Live](https://ubeytdemirr.github.io/music-search-ts/#/)
+
+
+- [IMDB UI](https://github.com/ubeytdemirr/imdb-react) | [Live](https://ubeytdemirr.github.io/imdb-react/#/)
+
+
+- [Restaurant UI ](https://github.com/ubeytdemirr/react-strive-restaurant) | [Live](https://ubeytdemirr.github.io/react-strive-restaurant/#/)
+
+
+- [Amazon UI](https://github.com/ubeytdemirr/strivazon-client) | [Live](https://ubeytdemirr.github.io/strivazon-client/#/)
+
+- [Books (Infinite Scroll & Pagination)](https://github.com/ubeytdemirr/strive-school-homeworks/tree/master/week8/day2/book-store) | [Live](https://strivebooks.imfast.io/)
+
+
+
+- [GOG](https://github.com/ubeytdemirr/strive-school-homeworks/tree/master/week4/day5) | [Live](https://gogui.imfast.io/)
+
+
+- [Netflix UI (Teamwork)](https://github.com/ubeytdemirr/strive-school-netflix-vanillajs) | [Live](https://fakeflix.imfast.io/)
+
