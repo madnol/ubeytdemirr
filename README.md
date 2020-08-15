@@ -5,7 +5,7 @@ I am Ubeyt, **javascript focused full stack developer**. I like to solve problem
 
 I am studying software engineering and at the same time, I am in [Strive School](https://strive.school/)'s A20 Batch for Fullstack Developer program.
 
-Here some projects, I've done in Strive School with MERN stack.
+ 
 
 
 
