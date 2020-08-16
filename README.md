@@ -86,7 +86,7 @@ This is the main stack that I am using in projects.
 
 # 🤓 Studies 
 
-- [Introduction to Algorithms] (https://github.com/ubeytdemirr/introduction-to-algorithms-js)
-- [Data Structures] (https://github.com/ubeytdemirr/datastructures-js)
+- [Introduction to Algorithms](https://github.com/ubeytdemirr/introduction-to-algorithms-js)
+- [Data Structures](https://github.com/ubeytdemirr/datastructures-js)
 
 
