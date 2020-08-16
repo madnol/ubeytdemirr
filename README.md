@@ -83,3 +83,10 @@ This is the main stack that I am using in projects.
 
 - [Netflix UI (Teamwork)](https://github.com/ubeytdemirr/strive-school-netflix-vanillajs) | [Live](https://fakeflix.imfast.io/)
 
+
+# 🤓 Studies 
+
+- [Introduction to Algorithms] (https://github.com/ubeytdemirr/introduction-to-algorithms-js)
+- [Data Structures] (https://github.com/ubeytdemirr/datastructures-js)
+
+
