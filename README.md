@@ -88,5 +88,6 @@ This is the main stack that I am using in projects.
 
 - [Introduction to Algorithms](https://github.com/ubeytdemirr/introduction-to-algorithms-js)
 - [Data Structures](https://github.com/ubeytdemirr/datastructures-js)
+- [Graph Theory](https://github.com/ubeytdemirr/graph-theory)
 
 
