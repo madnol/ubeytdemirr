@@ -1,9 +1,15 @@
 
 Hi 👋
 
-I am Ubeyt, **javascript focused full stack developer**. I like to solve problems by coding.
+I am a **Fullstack JavaScript Developer**, that focuses on MERN stack.
 
-I am studying software engineering and at the same time, I am in [Strive School](https://strive.school/)'s A20 Batch for Fullstack Developer program.
+I have a strong understanding of Javascript/Typescript HTML5, and CSS3.
+
+I am using the React framework to build beautiful web applications. I am following Design Systems as well as Web Accessibility and Semantic Web Designing while I code. 
+
+I can create and maintain REST and GraphQL APIs with Node.js, using NoSQL Databases such as MongoDB or Relational Databases such as PostgreSQL. 
+
+I use serverless and cloud technologies such as AWS, Google Cloud, and Azure to empower my backend skills.
 
  
 
