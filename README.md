@@ -35,7 +35,8 @@ I use serverless and cloud technologies such as AWS, Google Cloud, and Azure to 
 | <img width="50px" src="https://kodyclemens.com/wp-content/uploads/2019/06/mdb.png"></img> |  MongoDB  |                 
 |  <img width="50px" src="https://hackr.io/tutorials/learn-express-js/logo/logo-express-js?ver=1557508379"></img> |  Express.js  |                 
 | <img width="50px" src="https://www.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></img> |  Reactjs  |                 
-| <img width="50px" src="https://img.icons8.com/color/452/nodejs.png"></img> |  Nodejs  |                 
+| <img width="50px" src="https://img.icons8.com/color/452/nodejs.png"></img> |  Nodejs  | 
+|  <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/745px-Postgresql_elephant.svg.png"></img> |  PostgreSQL  |     
 | <img width="50px" src="https://raw.githubusercontent.com/rmolinamir/typescript-cheatsheet/master/TypeScript.png"></img> |  Typescript  |                 
 | <img width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/768px-GraphQL_Logo.svg.png"></img> |  GraphQL  |                 
 | <img width="50px" src="https://res-3.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/helwg0zndgaizfnjcgae"></img> |  Apollo  |                 
