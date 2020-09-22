@@ -1,5 +1,5 @@
 
-Hi 👋
+# Hi ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I am a **Fullstack JavaScript Developer**, that focuses on MERN stack.
 
@@ -15,14 +15,12 @@ I use serverless and cloud technologies such as AWS, Google Cloud, and Azure to 
 
 
 
-
-
 # 🎒 Education
 
 
 | School        | Domain        | Status  |
 | ------------- |:-------------:| -----:|
-| [Strive School](https://strive.school/)| Fullstack Developer   |  Currently |
+| [Strive School](https://strive.school/)| Fullstack Developer   |  Currently |                  
 | [Firat University](http://www.firat.edu.tr/en)     | Software Enginnering | Currently |
  
 
@@ -95,5 +93,11 @@ This is the main stack that I am using in projects.
 - [Introduction to Algorithms](https://github.com/ubeytdemirr/introduction-to-algorithms-js)
 - [Data Structures](https://github.com/ubeytdemirr/datastructures-js)
 - [Graph Theory](https://github.com/ubeytdemirr/graph-theory)
+
+# Stats 
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ubeytdemirr&show_icons=true)
+
+![](https://github-readme-stats.vercel.app/api?username=ubeytdemirr&show_icons=true)
 
 
