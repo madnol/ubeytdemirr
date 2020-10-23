@@ -20,7 +20,7 @@ I use serverless and cloud technologies such as AWS, Google Cloud, and Azure to 
 
 | School        | Domain        | Status  |
 | ------------- |:-------------:| -----:|
-| [Strive School](https://strive.school/)| Fullstack Developer   |  Currently |                  
+| [Strive School](https://strive.school/)| Fullstack Developer   |  Graduate |                  
 | [Firat University](http://www.firat.edu.tr/en)     | Software Enginnering | Currently |
  
 
