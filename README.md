@@ -36,7 +36,7 @@ I use serverless and cloud technologies such as AWS, Google Cloud, and Azure to 
  
 | |         |   
 | ------------- |:-------------:|
-| <img width="50px" src="https://kodyclemens.com/wp-content/uploads/2019/06/mdb.png"></img> |  MongoDB  |                 
+| <img width="50px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3-1175138.png"></img> |  MongoDB  |                 
 |  <img width="50px" src="https://hackr.io/tutorials/learn-express-js/logo/logo-express-js?ver=1557508379"></img> |  Express.js  |                 
 | <img width="50px" src="https://www.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"></img> |  Reactjs  |                 
 | <img width="50px" src="https://img.icons8.com/color/452/nodejs.png"></img> |  Nodejs  | 
