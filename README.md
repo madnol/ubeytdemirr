@@ -11,7 +11,11 @@ I can create and maintain REST and GraphQL APIs with Node.js, using NoSQL Databa
 
 I use serverless and cloud technologies such as AWS, Google Cloud, and Azure to empower my backend skills.
 
- 
+# 👔 Experience
+
+- Assistant Teacher @ Strive School 
+- Lead Developer @ Jetlexa
+
 
 
 
